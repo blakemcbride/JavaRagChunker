@@ -14,3 +14,4 @@ The code for this is at:  https://github.com/blakemcbride/JavaRAGChunker
 
 More info about the build system is at:  https://github.com/blakemcbride/Bld
 
+Code for dealing with LLMs and Vector databases is at https://github.com/blakemcbride/Kiss
