@@ -1,5 +1,5 @@
 
-# Java Chunker for RAG
+# RAG Chunker for Java Source Code
 
 This code breaks a Java source file into reasonable chunks that would
 be needed by a RAG system.
